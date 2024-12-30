@@ -47,7 +47,8 @@
 
 <br />
 
-## 📊 My Github Stats
+<h2 align="center">My Github Status</h2>
+
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Themosmy&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" width="350px" />
