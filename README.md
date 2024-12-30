@@ -8,7 +8,7 @@
 
 - 🌱  focused at Node.js | JavaScript | TypeScript
 - 🎖️  Creating valuable content
-- 🥅  2023 Plans: Contributing to the expansion of the Node in the Brazilian national market
+- 🥅  2025 Plans: Contributing to the expansion of the Node in the Brazilian national market
 
 
 - <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="40px">I’m looking to collaborate on **Open-Source Projects**<br>
