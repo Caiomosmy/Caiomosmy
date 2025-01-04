@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'am Developer Full Stack Node.js</h1>
+<h1 align="center">Hi, I'am Developer Full Stack NodeJS</h1>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/me.gif">
 
@@ -9,8 +9,7 @@
 - 🌱  focused at Node.js | JavaScript | TypeScript
 - 🎖️  Creating valuable content
 - 🥅  2025 Plans: Valite 12 MVPs and launch them as Micro-SaaS
-- 🏗️  Building in Public my Projects
-
+- 🏗️  Building my projects in public
 
 - <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="40px">I’m looking to collaborate on **Open-Source Projects**<br>
 
