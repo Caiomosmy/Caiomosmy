@@ -55,7 +55,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Themosmy&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" width="300px" />
 
 <h1 align="center">Projetos sendo criados publicamente</h1>
-<h3 align="center">Aqui demostro todas as minhas habilidades como Desenvolvedor, estou validando 12 MVPs (minimum Value Project) os projetos tem o objetivo de resolver uma problema latente em 6 Nichos como Marketing, finanças, Médico, Ondotologico, Alimenticíos e Lojas virtuais, e será publicado na web após a finalização, caso validados se tornaram micro-saas e assim vou escalar o produto.</h3>
+<h3 align="center">Aqui demostro todas as minhas habilidades como Desenvolvedor, estou validando 12 MVPs (minimum Value Project) os projetos tem o objetivo de resolver uma problema latente em 6 Nichos como Marketing, Finanças, Clínica Médico, odontológico, alimentício e Lojas virtuais, e será publicado na web após a finalização, caso validados se tornaram micro-saas e assim vou escalar o produto.</h3>
 
 <a href="https://github.com/Caiomosmy/SystemOrder" target="_blank"><i class="fas fa-cogs" style="margin-right: 5px;"></i> 🖥️ Omni Market - SystemOrder</a>
 
