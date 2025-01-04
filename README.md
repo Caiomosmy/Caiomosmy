@@ -55,11 +55,9 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Themosmy&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" width="300px" />
 
 <h1 align="center">Projetos sendo criados publicamente</h1>
-<h3 align="center">Aqui demostro todas as minhas habilidades como Desenvolvedor, os projetos tem o objetivo de resolver uma problema real, e será publicado na web após a finalização</h3>
+<h3 align="center">Aqui demostro todas as minhas habilidades como Desenvolvedor, estou desenvolvendo 6 MVPs (minimum Value Project) os projetos tem o objetivo de resolver uma problema real, e será publicado na web após a finalização</h3>
 
 <a href="https://github.com/Caiomosmy/SystemOrder" target="_blank"><i class="fas fa-cogs" style="margin-right: 5px;"></i> 🖥️ Omni Market - SystemOrder</a>
-
-<a href="https://github.com/Caiomosmy/Uber-Eats" target="_blank"><i class="fas fa-cogs" style="margin-right: 5px;"></i> 🏍️ Uber Eats</a>
 
 <a href="https://github.com/Caiomosmy/Spiderr" target="_blank"><i class="fas fa-cogs" style="margin-right: 5px;"></i> 🕸️ Spiderr</a>
 
