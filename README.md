@@ -8,8 +8,8 @@
 
 - 🌱  focused at Node.js | JavaScript | TypeScript
 - 🎖️  Creating valuable content
-- 🥅  2025 Plans: Valite 12 MVPs and launch them as Micro-SaaS
-- 🏗️  Building my projects in public
+- 🥅  2025 Plans: Valite 4 MVPs and launch them as Micro-SaaS
+- 🏗️  Building my projects
 
 - <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="40px">I’m looking to collaborate on **Open-Source Projects**<br>
 
