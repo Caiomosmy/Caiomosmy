@@ -53,8 +53,11 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Themosmy&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" width="350px" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Themosmy&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" width="300px" />
 
-<h1 align="center">Projetos sendo criados publicamente</h1>
-<h5 align="center">Aqui demostro todas as minhas habilidades como Desenvolvedor, estou validando 12 MVPs (minimum Value Project) os projetos tem o objetivo de resolver uma problema latente em 6 Nichos como Marketing, Finanças, Clínica Médico, odontológico, alimentício e Lojas virtuais, e será publicado na web após a finalização, caso validados se tornaram micro-saas e assim vou escalar o produto.</h5>
+<h1 align="center"> MVPs sendo criados publicamente</h1>
+<h5 align="center">Aqui demostro todas as minhas habilidades como Desenvolvedor, estou validando 12 MVPs (minimum Value Project) os projetos tem o objetivo de resolver uma problema latente em 6 Nichos como Marketing, Finanças, Clínica Médico, odontológico, alimentício e Lojas virtuais, e será publicado na web após a finalização, caso validados se tornaram micro-saas e assim vou escalar o produto.
+
+abaixo projetos que comprovam minhas habilidades como dev</h5>
+
 
 
 </div>
