@@ -6,7 +6,7 @@
 
 **`Developer (Developer/Writer/Content Creator)`**
 
-- 🌱  focused at Node.js | JavaScript | TypeScript
+- 🌱  focused at ASP.NET | .NET CORE | .NET MAIU |C#
 - 🎖️  Creating valuable content
 - 🥅  2025 Plans: Valite 4 MVPs and launch them as Micro-SaaS
 - 🏗️  Building my projects
