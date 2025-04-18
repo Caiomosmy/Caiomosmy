@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'am Developer Full Stack NodeJS</h1>
+<h1 align="center">Hi, I'am Developer Full Stack C#</h1>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/me.gif">
 
@@ -6,7 +6,7 @@
 
 **`Developer (Developer/Writer/Content Creator)`**
 
-- 🌱  focused at ASP.NET | .NET CORE | .NET MAIU |C#
+- 🌱  focused at ASP.NET | .JavaScript | React | .NET MAIU |C#
 - 🎖️  Creating valuable content
 - 🥅  2025 Plans: Valite 4 MVPs and launch them as Micro-SaaS
 - 🏗️  Building my projects
